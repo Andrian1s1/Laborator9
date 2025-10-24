@@ -1,0 +1,3 @@
+- Sarcina 1: Initializeaza repo local
+- Sarcina 2: Creaza branch local
+- Sarcina 3: Simuleaza conflict
